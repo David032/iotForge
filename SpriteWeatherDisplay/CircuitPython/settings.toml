@@ -1,0 +1,18 @@
+# WiFi
+CIRCUITPY_WIFI_SSID = ""
+CIRCUITPY_WIFI_PASSWORD = ""
+
+# Location
+LATITUDE = "55.95"
+LONGITUDE = "3.20"
+
+# Local Env
+MIN_TEMP=0
+MAX_TEMP=100
+FIRST_DAYLIGHT_HOUR=7
+LAST_DAYLIGHT_HOUR=17
+
+# Other Settings
+BRIGHTNESS = "0.2"
+SHOW_SCROLLING_TEXT = "TRUE" #Valid options are TRUE or FALSE
+SPRITE_TIME = "15" #How many seconds to show the sprite before doing the scrolling text
